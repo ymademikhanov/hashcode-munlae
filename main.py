@@ -105,7 +105,7 @@ class Population:
             writer.write("\n")
 
 # filepath = input()
-filepath = "c_memorable_moments.txt"
+filepath = "b_lovely_landscapes.txt"
 photos = []
 photosAsList = []
 
