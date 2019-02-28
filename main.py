@@ -16,6 +16,11 @@ class Photo:
             result += tag + " "
         return "Photo of type " + self.kind + " with tags: " + result
 
+class Frame:
+    def __init__(self, photoIDs):
+        self.kind
+
+
 class Slide:
     def __init__(self, photoIDs):
         self.length = len(photoIDs)
